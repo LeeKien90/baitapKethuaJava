@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LopCircleVaLopCylinder/LopCircleVaLopCylinder.iml" filepath="$PROJECT_DIR$/LopCircleVaLopCylinder/LopCircleVaLopCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LopPointvaMoveablePoint/LopPointvaMoveablePoint.iml" filepath="$PROJECT_DIR$/LopPointvaMoveablePoint/LopPointvaMoveablePoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/baitapKethuaJava.iml" filepath="$PROJECT_DIR$/.idea/baitapKethuaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lopPoint2d3d/lopPoint2d3d.iml" filepath="$PROJECT_DIR$/lopPoint2d3d/lopPoint2d3d.iml" />
+    </modules>
+  </component>
+</project>
